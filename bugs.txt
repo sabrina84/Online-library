@@ -1,0 +1,10 @@
+1. username has not been made null after log out.
+
+2. has to show 'deleted'.
+
+3.has to provide search results for similar spelling.
+
+4. forgot password should check whether the username is in the data base.
+
+5. bookid must be selected before editing.
+
